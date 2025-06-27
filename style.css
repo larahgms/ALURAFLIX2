@@ -2,3 +2,7 @@ body {
 background-color: black;
 color: blue
 font-family "Trebuchet MS", "comic Sans MS", cursive;
+margin: 0;
+} 
+header {
+    font-size:60px
